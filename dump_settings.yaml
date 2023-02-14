@@ -18,8 +18,8 @@ HTTP_PROXY: false
 LINK:
 - link: https://immmmm.com/about/
   theme: common1
-MAX_POSTS_NUM: 10
-OUTDATE_CLEAN: 1
+MAX_POSTS_NUM: 5
+OUTDATE_CLEAN: 180
 SETTINGS_FRIENDS_LINKS:
   enable: false
   json_api: ''
